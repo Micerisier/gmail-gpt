@@ -58,7 +58,7 @@ function_descriptions = [
 #print(response)
 
 class Email(BaseModel):
-     from_email: str
+     #from_email: str
      content: str
 
 #@app.get("/")
